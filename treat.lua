@@ -369,7 +369,6 @@ local Window = Library:CreateWindow({
     AutoShow = true,
     TabPadding = 8,
     MenuFadeTime = 0.2
-    Accent = Color3.fromRGB(73, 82, 82)
 })
 
 
